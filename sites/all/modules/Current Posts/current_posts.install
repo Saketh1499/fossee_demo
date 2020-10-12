@@ -1,0 +1,16 @@
+<?php
+
+function current_posts_schema() {
+  $schema['mytable1'] = array(
+     // specification for mytable1
+  );
+  $schema['mytable2'] = array(
+     // specification for mytable2
+  );
+  return $schema;
+}
+
+
+
+?>
+
